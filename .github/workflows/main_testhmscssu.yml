@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'testhmscssu'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_088096BFB3E84CB88B2EE428519E6924 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9BE664DB5C534F0BA61F645E6CB3D0FD }}
           package: .
